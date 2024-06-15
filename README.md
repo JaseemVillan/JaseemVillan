@@ -1,9 +1,9 @@
 ![nOOb developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-### Jaseem Villan
+# Jaseem Villan
 I'm a developer from India and I'm here to learn more(aka noob).
 
-#### Skills and Experience
+## Skills and Experience
 * ⚛ React
 * 🧑‍💻 C, C++, PYTHON
 * 💻 HTML, CSS, JS
