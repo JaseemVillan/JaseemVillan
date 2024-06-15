@@ -1,11 +1,12 @@
-
-### Hi there 👋, my name is Jaseem
-#### nOOb developer
 ![nOOb developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a developer from India and I'm here to learn more(aka noob)
+### Jaseem Villan
+I'm a developer from India and I'm here to learn more(aka noob).
 
-Skills: C  / C++ /  JS / HTML / CSS
+#### Skills and Experience
+* ⚛ React
+* 🧑‍💻 C, C++, PYTHON
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on this page. 
 
